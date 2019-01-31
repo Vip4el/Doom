@@ -1,0 +1,5 @@
+Assets/SkySerie Freebie/FreebieHdri/Cloudymorning4k.hdr
+Assets/SkySerie Freebie/FreebieHdri/DarkStorm4K.hdr
+Assets/SkySerie Freebie/FreebieHdri/FluffballDay4k.hdr
+Assets/SkySerie Freebie/FreebieHdri/HighFantasy4k.hdr
+Assets/SkySerie Freebie/FreebieHdri/PlanetaryEarth4k.hdr
